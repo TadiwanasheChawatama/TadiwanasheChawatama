@@ -1,5 +1,34 @@
-# 💫 About Me:
-# Hi there! 👋<br><br>I'm a Computer Science student at the University of Zimbabwe, passionate about building secure and intelligent systems. My focus lies at the intersection of **Cybersecurity**, **AI/ML**, and **Blockchain Technology**.<br><br>## 🔍 What I'm working on:<br>- Exploring ethical hacking and penetration testing<br>- Developing machine learning algorithms and models<br>- Building blockchain infrastructure and smart contracts<br>- Research on secure AI systems and decentralized trust<br><br>## 💡 Interests:<br>- **Cybersecurity**: Threat detection, vulnerability assessment, secure system design<br>- **AI/ML**: Deep learning, neural networks, automated threat analysis<br>- **Blockchain**: Cryptocurrency protocols, DeFi, distributed systems<br>- **Innovation**: Emerging tech that shapes digital trust and security<br><br>## 🎯 Goals:<br>Contributing to the next generation of secure, intelligent, and decentralized technologies that will define our digital future.<br><br>---<br>*Always learning, always building, always securing.* 🚀
+# 💫 About Me
+
+Hi there! 👋  
+I'm a Computer Science student at the University of Zimbabwe, passionate about building secure and intelligent systems. My focus lies at the intersection of **Cybersecurity**, **AI/ML**, and **Blockchain Technology**.
+
+---
+
+### 🔍 What I'm working on
+
+- Exploring ethical hacking and penetration testing  
+- Developing machine learning algorithms and models  
+- Building blockchain infrastructure and smart contracts  
+- Research on secure AI systems and decentralized trust
+
+---
+
+### 💡 Interests
+
+- **Cybersecurity**: Threat detection, vulnerability assessment, secure system design  
+- **AI/ML**: Deep learning, neural networks, automated threat analysis  
+- **Blockchain**: Cryptocurrency protocols, DeFi, distributed systems  
+- **Innovation**: Emerging tech that shapes digital trust and security
+
+---
+
+### 🎯 Goals
+
+Contributing to the next generation of secure, intelligent, and decentralized technologies that will define our digital future.
+
+> _Always learning, always building, always securing._ 🚀
+
 
 
 ## 🌐 Socials:
